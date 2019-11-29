@@ -1,4 +1,4 @@
-package repositories;
+package com.globomatics.bike.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
